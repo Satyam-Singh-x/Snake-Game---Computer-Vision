@@ -121,6 +121,8 @@ Clean separation of vision & game logic
 
 📸 Demo
 
+https://youtu.be/ic80-0msJJk?si=0TxQJHY1Tin3yB96
+
 
 
 
